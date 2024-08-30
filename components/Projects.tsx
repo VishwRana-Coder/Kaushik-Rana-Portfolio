@@ -426,12 +426,12 @@ const Projects = () => {
           </div>
           <div>
             <p className="mt-4 text-justify">
-              The human face, being a significant aspect of an individual’s
+              The human face, being a significant aspect of an individual's
               anatomy, holds particular importance in discerning their emotional
               state. Contemporary technology now enables the direct extraction
               of pertinent information from the human face through camera-based
               methods. This extracted input serves as valuable data for
-              discerning an individual’s mood. By utilizing this information, a
+              discerning an individual's mood. By utilizing this information, a
               system can automatically curate a playlist of songs that align
               with the identified emotional state.
             </p>
@@ -439,9 +439,9 @@ const Projects = () => {
               This streamlined approach circumvents the laborious and
               time-consuming task of manually categorizing or grouping songs,
               presenting an efficient solution for generating playlists tailored
-              to an individual’s emotional features. In essence, this algorithm
+              to an individual's emotional features. In essence, this algorithm
               simplifies the playlist creation process, offering a seamless and
-              personalized music experience based on the user’s mood.
+              personalized music experience based on the user's mood.
             </p>
           </div>
         </div>

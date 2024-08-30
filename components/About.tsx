@@ -3,6 +3,8 @@ import React from "react";
 //Importing Components
 import Link from "next/link";
 import { FaLinkedin, FaFacebook } from "react-icons/fa";
+import Image from "next/image";
+
 
 const About = () => {
   return (
@@ -10,9 +12,12 @@ const About = () => {
       <div className="md:container  gap-10 md:flex-row flex-col md:justify-center md:items-center grid place-items-center">
         {/* Image */}
         <div className="border border-[#b4b4b4] dark:border-[#474747] rounded-full md:w-[300px] md:h-[300px] h-[200px] w-[200px]">
-          <img
+          <Image
+            alt="kaushik's image"
+            width={200}
+            height={200}
             src="/kaushik-image.png"
-            className="md:w-[300px] md:h-[300px] h-[200px] w-[200px]"
+            className="md:w-[300px] border border-[#b4b4b4] dark:border-[#474747] rounded-full md:h-[300px] h-[200px] w-[200px]"
           />
         </div>
         {/* Info */}
