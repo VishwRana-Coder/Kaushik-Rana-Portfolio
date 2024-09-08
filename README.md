@@ -1,5 +1,30 @@
-##This is the Portfolio which is made by **Dad**: **Kaushik Rana** as Gift
+# Portfolio
 
-I used Typescript in next js just to try it out 
-I mainly focous on ui
-My dad wanted to have an professor portfolio like ui not like a developer
+This is a portfolio project created by **Dad**: **Kaushik Rana** as a gift.
+
+## Overview
+
+I used TypeScript with Next.js to give it a try. The main focus of this project is on the user interface (UI). 
+
+My dad wanted a professor-style portfolio UI rather than a typical developer look.
+
+## Technologies Used
+
+- **Next.js** with **TypeScript**
+- **Tailwind CSS**
+- **Ant Design (AntD)**
+- **ShadCN UI**
+- **Cloudinary** for image hosting
+- **Firebase** for authentication and storage
+
+## Features
+
+- A clean, professor-style UI
+- High-quality images
+- Smooth transitions and responsive design
+
+## Setup
+
+1. Clone the repository:
+   ```bash
+   git clone [repository-url]
