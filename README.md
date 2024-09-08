@@ -14,7 +14,6 @@ My dad wanted a professor-style portfolio UI rather than a typical developer loo
 - **Tailwind CSS**
 - **Ant Design (AntD)**
 - **ShadCN UI**
-- **Cloudinary** for image hosting
 - **Firebase** for authentication and storage
 
 ## Features
