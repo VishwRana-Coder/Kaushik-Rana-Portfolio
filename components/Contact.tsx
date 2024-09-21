@@ -80,7 +80,7 @@ const Contact: React.FC = () => {
             <div className="py-5 px-5 text-2xl text-light-accent dark:text-dark-accent bg-[#e7e7e7] flex justify-center items-center rounded-md dark:bg-[#272727]">
               <IoIosCall />
             </div>
-            +91-97255 77964
+            +1 (778) 717-7675
           </div>
           {/* Email */}
           <div className="flex items-center gap-6 mt-4">

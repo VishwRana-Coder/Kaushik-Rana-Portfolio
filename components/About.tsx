@@ -42,7 +42,7 @@ const About = () => {
           {/* Personal Info */}
           <ul>
             <li className="mt-3 flex">
-              <div className="font-semibold">Tel:</div>&nbsp; +91-97255 77964
+              <div className="font-semibold">Tel:</div>&nbsp; +1 (778) 717-7675
             </li>
             <li className="mt-3 flex">
               <div className="font-semibold">Email:</div>
@@ -54,9 +54,9 @@ const About = () => {
             <li className="mt-3">
               <div className="font-semibold">Address:</div>&nbsp;
               <div className="mt-[-20px]">
-                Vishwakarma Government Engineering College,
-                <br /> Near Visat-Ghandinagar Highway,
-                <br /> Chandkheda, Ahmedabad-382424
+                13863 80A Avenue,
+                <br /> Surrey, BC V3W 8V8
+                <br /> Canada
               </div>
             </li>
           </ul>
