@@ -38,13 +38,13 @@ const config = {
       },
       colors: {
         light: {
-          accent: "#0a58ff",
-          background: "#f4f4f4",
+          accent: "#fa714b",
+          background: "#FF0000",
           primary: "#212121",
         },
         dark: {
-          accent: "#4781ff",
-          background: "#212121",
+          accent: "#fa714b",
+          background: "#3b3939",
           primary: "#f4f4f4",
         },
       },

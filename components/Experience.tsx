@@ -11,7 +11,7 @@ const Experience = () => {
         {/* Card 1 */}
         <Link
           href={"/experience/uv-college"}
-          className="md:w-[50%] bg-[#eeeeee] h-[300px] border border-[#272727] w-[100%] rounded-xl px-3 py-3 text-light-primary dark:text-dark-primary dark:bg-[#1e1e1e]"
+          className="md:w-[50%] bg-[#eeeeee] h-[300px] border border-[#272727] w-[100%] rounded-xl px-3 py-3 text-light-primary dark:text-dark-primary dark:bg-[#2e2e2e]"
         >
           <section>
             <h1 className="text-[18px] text-light-accent dark:text-dark-accent text-center mt-3">
@@ -31,7 +31,7 @@ const Experience = () => {
         {/* Card 2 */}
         <Link
           href={"/experience/vgec"}
-          className="md:w-[50%] bg-[#eeeeee] h-[300px] border border-[#272727] w-[100%] rounded-xl px-3 py-3 text-light-primary dark:text-dark-primary dark:bg-[#1e1e1e]"
+          className="md:w-[50%] bg-[#eeeeee] h-[300px] border border-[#272727] w-[100%] rounded-xl px-3 py-3 text-light-primary dark:text-dark-primary dark:bg-[#2e2e2e]"
         >
           <section>
             <h1 className="text-[18px] text-light-accent dark:text-dark-accent text-center mt-3">
