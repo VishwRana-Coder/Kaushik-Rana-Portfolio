@@ -23,7 +23,7 @@ const About = () => {
         {/* Info */}
         <main className="mt-10 w-[300px]">
           {/* Name */}
-          <h1 className="text-2xl">Dr. Kaushik Rana</h1>
+          <h1 className="text-2xl">Dr. Kaushik Rana<span className="text-[10px]">(he/his)</span></h1>
           <Link
             href="http://www.vgec.cteguj.in/facultydetail/show/15129"
             className="text-light-accent dark:text-dark-accent hover:underline"
